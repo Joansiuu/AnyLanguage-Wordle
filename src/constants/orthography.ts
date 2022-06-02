@@ -1,15 +1,15 @@
 import { CONFIG } from './config'
 
 export const ORTHOGRAPHY = [
-  'cc',
-  'ć',
+  'c',
+  'c̓',
   'č',
   'h',
   'k',
   'kʷ',
   'ḱʷ',
   'l',
-  "l'",
+  "l̕",
   'ƛ̓',
   'ɬ',
   'm',
