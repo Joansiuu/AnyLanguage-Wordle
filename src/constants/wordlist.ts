@@ -13,11 +13,14 @@ export const WORDS = [
   'hiləkʷ',
   'ʔiyəs',
   'qiləs',
-  'χit̕ᶿəl',
-  'sqʷəmey',
-  'sme:nt,
+  'χit́ᶿəl',
+  'sqʷəmeý',
+  'sme:nt',
   'ʔiyəs',
   'ʔeχeʔ',
+  'celəx',
+  'hiləm',
+  'kʷasən',
 ]
 
 if (CONFIG.normalization) {
