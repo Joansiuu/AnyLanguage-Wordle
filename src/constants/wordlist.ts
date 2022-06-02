@@ -7,7 +7,7 @@ export const WORDS = [
   'ɬixʷəs',
   'tu:xʷəs',
   'nəc̓aʔ',
-  't̕ᶿaʔkʷs',
+  't́ᶿaʔkʷs',
   'ʔəpan',
   'qəl̕et',
   'hiləkʷ',
