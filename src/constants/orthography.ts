@@ -9,7 +9,7 @@ export const ORTHOGRAPHY = [
   'kʷ',
   'ḱʷ',
   'l',
-  'l'',
+  "l'",
   'ƛ̓',
   'ɬ',
   'm',
