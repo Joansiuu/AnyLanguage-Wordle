@@ -7,7 +7,7 @@ export const ORTHOGRAPHY = [
   'h',
   'k',
   'kʷ',
-  'ḱʷ',
+  'k̓ʷ',
   'l',
   "l̕",
   'ƛ̓',
@@ -55,9 +55,9 @@ export const ORTHOGRAPHY = [
   'a:ẃ',
   'ew',
   'iw',
-  'iẃ',
+  'iw̓',
   'əw',
-  'əẃ',
+  'əw̓',
 ]
 
 if (CONFIG.normalization) {
